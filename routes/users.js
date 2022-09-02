@@ -9,7 +9,7 @@ const users = [
         DriverLicenseID: "A0000",
         DriverAddress: "123 My Home, Los Angeles CA 00000",
         DriverVIN: 00000000,
-        DriverLicensePlate: 9AAA000
+        DriverLicensePlate: "9AAA000"
     }
 
 
